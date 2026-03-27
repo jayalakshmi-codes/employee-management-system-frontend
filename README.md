@@ -1,16 +1,105 @@
-# React + Vite
+# 🚀 Employee Management System - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive frontend application for managing employee data efficiently. This application allows users to perform full CRUD (Create, Read, Update, Delete) operations through an intuitive UI, integrated with a backend REST API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Application
 
-## React Compiler
+🔗 **Live Demo:**  
+https://employee-management-system-frontend-azure.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The Employee Management System Frontend is built using React and provides a clean user interface for managing employee records. It communicates with a backend service to fetch and manipulate data in real-time.
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js  
+- JavaScript (ES6+)  
+- HTML5 & CSS3  
+- Axios  
+
+---
+
+## ✨ Features
+
+- View all employees in a table format  
+- Add new employee using a form  
+- Update existing employee details  
+- Delete employee using action button  
+- Real-time API integration  
+
+---
+
+## 🔗 Backend API
+
+👉 https://employee-management-system-backend-production-b85a.up.railway.app
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone <your-frontend-repo-url>
+```
+
+### 2. Navigate to project folder
+```bash
+cd employee-management-system-frontend
+```
+
+### 3. Install dependencies
+```bash
+npm install
+```
+
+### 4. Run the application
+```bash
+npm start
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ ├── services/
+ ├── App.js
+ ├── index.js
+```
+
+---
+
+## 🚀 Deployment
+
+- Deployed using Vercel  
+- Publicly accessible via live URL  
+
+---
+
+## 📌 Future Enhancements
+
+- Search and filter functionality  
+- Pagination support  
+- JWT Authentication  
+- UI improvements  
+
+---
+
+## 🤝 Contribution
+
+Feel free to fork and contribute!
+
+---
+## 🙌 Author
+**Jayalakshmi S**  
+📧 Email: jayalak444@gmail.com  
+🔗 GitHub: https://github.com/jayalakshmi-codes
